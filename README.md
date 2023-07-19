@@ -1,3 +1,6 @@
+In this repo, you have 2 json files that act as mock database such as Users and Post. The 
+code in this repo basically extract information of a specific user from both Users and Post.
+
 Steps to Run
 
 1. Open VSCode with this Project as workspace. Open the terminal.
